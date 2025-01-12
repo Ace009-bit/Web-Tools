@@ -10,4 +10,5 @@ If you encounter issues with permissions, try running the script as sudo for ele
 Here is an image that shows something cool about the project:
 
 ![Image](image.png)
+
 Thank you for checking out my project!
